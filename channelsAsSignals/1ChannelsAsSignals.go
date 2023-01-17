@@ -1,4 +1,5 @@
-package main
+//Channels as signals for complete code execution
+package channelsassignals
 
 import (
 	"fmt"
